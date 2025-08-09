@@ -17,8 +17,8 @@
 ### 📦 Installation
 
 1. [Download the latest ZIP from Releases](../../releases)
-2. In Aseprite, go to:
-3. 3. Select the downloaded ZIP.
+2. In Aseprite, go to: Edit->Preferences->Extensions->ADd
+3. Select the downloaded ZIP.
 4. Enable the extension.
 
 ---
