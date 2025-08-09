@@ -1,6 +1,6 @@
 # Aseprite Selection Tools
 
-## 📸 Screenshots
+### 📸 Screenshots
 
 ### Saving a Selection
 <img width="279" height="267" alt="image" src="https://github.com/user-attachments/assets/61b69a13-6ccc-4a36-9645-20a845d9d8de" />
@@ -14,7 +14,7 @@
 
 ---
 
-## 📦 Installation
+### 📦 Installation
 
 1. [Download the latest ZIP from Releases](../../releases)
 2. In Aseprite, go to:
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠 Usage
+### 🛠 Usage
 
 The commands are in **Edit → Selection Tools**:
 
