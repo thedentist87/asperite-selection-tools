@@ -3,12 +3,13 @@
 ## 📸 Screenshots
 
 ### Saving a Selection
-
+<img width="279" height="267" alt="image" src="https://github.com/user-attachments/assets/61b69a13-6ccc-4a36-9645-20a845d9d8de" />
 
 ### Restoring a Selection
-
+<img width="456" height="267" alt="image" src="https://github.com/user-attachments/assets/416c5a23-6203-4722-b1fa-e6d1a7f33d1d" />
 
 ### Resizing Canvas
+<img width="245" height="157" alt="image" src="https://github.com/user-attachments/assets/21a42452-ae8f-4506-af0f-59ea60215aae" />
 
 
 ---
