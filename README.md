@@ -4,7 +4,7 @@
 
 The commands are in **Edit → Selection Tools**:
 
-- **Save Selection (Quick)** — saves the current selection with an auto-increment name.
+- **Save Selection (Quick)** — saves the current selection quick (memory).
 - **Save Selection As…** — lets you name the selection before saving.
 - **Save Entered Selection** — manually enter coordinates and size.
 - **Restore From Saved…** — pick from saved selections, with optional offset/resize.
