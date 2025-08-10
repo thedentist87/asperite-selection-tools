@@ -25,7 +25,8 @@ The commands are in **Edit → Selection Tools**:
 <img width="301" height="191" alt="image" src="https://github.com/user-attachments/assets/9db84452-5bc2-4b6f-9290-c070f49e412d" />
 
 ### Resizing Selection
-<img width="303" height="192" alt="image" src="https://github.com/user-attachments/assets/2c9c2cbb-e60b-4eb6-a6a8-260351a3aff6" />
+<img width="304" height="194" alt="image" src="https://github.com/user-attachments/assets/f02c6262-0f97-4682-8e4d-9c87e06424e1" />
+
 
 
 ---
