@@ -10,8 +10,8 @@ The commands are in **Edit → Selection Tools**:
 - **Restore From Saved…** — pick from saved selections, with optional offset/resize.
 - **Restore Last Selection** — restore the most recent saved selection.
 - **Clear All Saved Selections** — delete all saved selections.
-- **Resize Canvas …** — choose multiple, mode and minimum size (Up / Nearest).
-- **Resize Selection…** — choose multiple, mode and minimum size (Up / Nearest).
+- **Resize Canvas …** — choose multiple, mode Up / Nearest) and minimum size (optional)
+- **Resize Selection…** — choose multiple, mode  Up / Nearest) and minimum size (optional)
 
 ### 📸 Screenshots
 
