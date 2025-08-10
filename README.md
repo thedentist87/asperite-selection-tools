@@ -22,7 +22,7 @@ The commands are in **Edit → Selection Tools**:
 <img width="456" height="267" alt="image" src="https://github.com/user-attachments/assets/416c5a23-6203-4722-b1fa-e6d1a7f33d1d" />
 
 ### Resizing Canvas
-<img width="245" height="157" alt="image" src="https://github.com/user-attachments/assets/21a42452-ae8f-4506-af0f-59ea60215aae" />
+<img width="301" height="191" alt="image" src="https://github.com/user-attachments/assets/9db84452-5bc2-4b6f-9290-c070f49e412d" />
 
 ### Resizing Selection
 <img width="303" height="192" alt="image" src="https://github.com/user-attachments/assets/2c9c2cbb-e60b-4eb6-a6a8-260351a3aff6" />
